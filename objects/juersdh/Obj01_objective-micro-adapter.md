@@ -27,7 +27,8 @@ difference(){
 Next, camera board slides in easily, but also slides out easily. Need either a tighter fit or some kind of latching mechanism. First try tighter fit by reducing slot size.
 - 2.0 mm - too large (in & out easily)
 - 1.6 mm - too thin (can't get in)
-- 1.8 mm - 
+- 1.8 mm - too large by a smidge
+- 1.7 mm - this is pretty good. It goes in relatively smoothly and then stays put.
 
 ### Objective ring
 And the objective ring:
@@ -55,4 +56,7 @@ Added a stop to prevent the ring from going to far into the main body.
 Settled on 1.5 mm and 0.6 mm.
 
 Now trying intermediate values.
-- 5.8 - 5.0. Actually 5.0 appears to work, except theres a hard spot to screw past. Once past that, though, the threads are then loose. I try to eliminate this hard spot by adding a bevel.
+- 0.58 - 0.50. Actually 0.50 appears to work, except theres a hard spot to screw past. Once past that, though, the threads are then loose. I try to eliminate this hard spot by adding a bevel. This worked. So now try smaller values:
+- 0.48 - pretty good. Goes on smoothly, but a little lose 
+- 0.45 - Goes on a little hard.
+- 0.46 - This is good. Goes on smoothly without much play.
