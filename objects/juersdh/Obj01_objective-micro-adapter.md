@@ -69,3 +69,6 @@ Now trying intermediate values.
 - 0.48 - pretty good. Goes on smoothly, but a little lose 
 - 0.45 - Goes on a little hard.
 - 0.46 - This is good. Goes on smoothly without much play.
+
+9/24/2024
+Add tabs to make it easier to remove.
