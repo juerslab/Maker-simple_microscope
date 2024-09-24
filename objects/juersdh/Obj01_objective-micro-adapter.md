@@ -1,3 +1,4 @@
+# Notes for development of the objective-camera-card-adapter
 # Version 1
 For the initial camera board.
 
@@ -28,7 +29,15 @@ Next, camera board slides in easily, but also slides out easily. Need either a t
 - 2.0 mm - too large (in & out easily)
 - 1.6 mm - too thin (can't get in)
 - 1.8 mm - too large by a smidge
-- 1.7 mm - this is pretty good. It goes in relatively smoothly and then stays put.
+- 1.7 mm - this is pretty good. It goes in relatively smoothly and then stays put. (Sometimes - other times too tight.)
+- 1.75 mm - seems better(?) 
+
+9/23/2024
+Next, it would be nice to have rounded corners. This can be done with the BOSL2 library.
+Also move the opening for the USB connector over to try to center camera better:
+- 0.2 mm - this actually looks off center; so I go back to zero.
+
+Rounded corners with radius 1 are ok. radius 2 looks better, except on the surface contacting the build plate. The brim seems stuck. So I go back to 1.
 
 ### Objective ring
 And the objective ring:
