@@ -1,6 +1,8 @@
 # Notes for development of the objective-camera-card-adapter
 # Version 1
 For the initial camera board.
+9/25/2024
+Am updating this to include threads (see below in Version 3)
 
 # Version 2
 For the next generation camera board, which has a somewhat different formfactor.
