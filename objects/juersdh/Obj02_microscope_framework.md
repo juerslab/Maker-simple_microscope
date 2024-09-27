@@ -31,10 +31,18 @@ The wooden frame appears to be less stiff than the acrylic frame, when flexing i
 - Putting the wooden frame on a piece of open cell foam improved things a lot.
 - The amplitude also depends on the surface. On one table the oscillations are larger than on another table.
 
-Tried using thicker stock - 3/16" acrylic. This worked quite well. So will switch to thicker. 3/16" isn't readily available online, but 1/4" is, so will check that.
+Tried using thicker stock - 3/16" acrylic. This worked quite well. So will switch to thicker. 
 - Tried with 1/4" acrylic. But this seems less forgiving to bending, and will probably fracture after fewer cycles of assembly/disassembly.
+- So 3/16" seems to be the way to go. The stuff I used was sourceone 0.18" thick by spec and 0.17" thick by caliper. I ordered more of this - will be here on monday. 
 
-Also switch to fine thread bolts
+Also need to switch to fine thread bolts. For M3 coarse, the pitch is 0.5
+
+#### Further work.
+9/26/2024
+Made adjustments to build the whole thing out of 3/16" acrylic. This seems to be ok. Possibly is more stable, but will need a bigger knob to turn than just the screw... (maybe a screwdriver, or one of these: https://www.thorlabs.com/thorproduct.cfm?partnumber=MAS20)
+Probably should make the slot a little wider so there's less stress on the acrylic. 
+
+
 
 
 
