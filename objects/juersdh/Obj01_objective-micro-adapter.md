@@ -1,21 +1,22 @@
-# Notes for development of the objective-camera-card-adapter
-# Version 1
+# Parts for simple_microscope (3D printed)
+## Objective - camera housing
+### Version 1
 For the initial camera board.
 9/25/2024
 Am updating this to include threads (see below in Version 3)
 
-# Version 2
+### Version 2
 For the next generation camera board, which has a somewhat different formfactor.
 
-# Version 3. (Sept 2024). 
+### Version 3. (Sept 2024). 
 Wanting to update the design to include threads for the objective. In V1 & V2, the objective is held onto the adapter with a rubber band. Using threads may make this more stable.
 
 For the threads, I'm using the BOSL2 library. The RMS threads on the objective are pretty fine, and it seems that using the Raise3D printer yields decent RMS threads only when the thread axis is perpendicular to the build plate. This in turn then requires supports. So I will be trying two different variants of Version 3.
 
-## Version 3a
+#### Version 3a
 The adapter will include rather than a cylindrical hole for the object, a threaded cylindrical hole to receive a threaded ring that the objective will be attached to. The code is something like this:
 
-### Main body
+##### Main body
 For the main body:
 difference(){
     cube([length,width,depth+2]);
@@ -41,7 +42,7 @@ Also move the opening for the USB connector over to try to center camera better:
 
 Rounded corners with radius 1 are ok. radius 2 looks better, except on the surface contacting the build plate. The brim seems stuck. So I go back to 1.
 
-### Objective ring
+## Objective - camera housing adapter
 And the objective ring:
 difference(){
     translate([0, 0, 0]) threaded_rod(d=1.2\*25.4-0.5,l=hole_depth,pitch=2);
@@ -74,3 +75,10 @@ Now trying intermediate values.
 
 9/24/2024
 Add tabs to make it easier to remove.
+
+## Objective vertical spacer
+There are two (at least) different objectives from Amscope, with slightly different shapes. The skeleton is made for one of the
+shapes, and this adapter is needed for the other shape.
+
+## Camera lens remover
+No changes were made to this file.
