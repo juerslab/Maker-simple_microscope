@@ -82,3 +82,4 @@ shapes, and this adapter is needed for the other shape.
 
 ## Camera lens remover
 No changes were made to this file.
+
