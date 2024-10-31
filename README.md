@@ -2,9 +2,16 @@
 This microscope grew out of a need created by the pandemic, during Spring 2020. We were remote. To implement a brownian motion lab for the biophysics lab course, I built this microscope, and the students carried out the experiment at their homes.
 
 
-<img src="images/overview.jpg" alt="drawing" width="1000"/>
+<img src="images/overview.jpg" alt="drawing" width="600"/>  
 
-The microscope on the left uses acrylic and the fine adjuster. The microscope on the right uses plywood, the coarse adjuster, and the objective spacer (required for the second Amscope objective - see below)
+
+
+The microscope on the left uses acrylic and the fine adjuster. The microscope on the right uses plywood, the coarse adjuster, and the objective spacer (required for the second Amscope objective - see below)  
+
+Microscope with image of 1 micron polystyrene beads imaged with the microscope:  
+
+<img src="images/beads_view.jpg" alt="drawing" width="600"/>
+
 ## Description
 The microscope includes the following parts:
 
@@ -88,53 +95,88 @@ Two views of the microscope:
 
 <img src="images/side_view.jpg" alt="drawing" width="400"/>  
 
-Microscope with image of 1 micron polystyrene beads imaged with the microscope:  
-
-<img src="images/beads_view.jpg" alt="drawing" width="400"/>
 
 ## Assembly
-The parts of the microscope.
-<img src="images/assembly_1.jpg" alt="drawing" width="600" style="transform:rotate(-90deg) translate(0px,100px)"/>
-The pieces interlock. Numbers indicate which pieces should be together. Attach the first side to the bottom and lock so that the 1s line up. 
+The parts of the microscope.  
+
+<img src="images/assembly_1.jpg" alt="drawing" width="600" style="transform:rotate(-90deg) translate(0px,100px)"/>  
+
+1. The pieces interlock. Numbers indicate which pieces should be together. Attach the first side to the bottom and lock so that the 1s line up.   
+
 <img src="images/assembly_2.jpg" alt="drawing" width="400"/>
-Attach the other side. 
+  
+
+2. Attach the other side.  
+ 
 <img src="images/assembly_3.jpg" alt="drawing" width="400"/>  
 
-<img src="images/assembly_4.jpg" alt="drawing" width="400"/>  
-Place the top onto both sides without locking.
+3. Place the top onto both sides without locking.
 
-<img src="images/assembly_5.jpg" alt="drawing" width="400"/>  
-Once the top is on both sides, then lock both sides simultaneously.
+<img src="images/assembly_4.jpg" alt="drawing" width="400"/>  
+
+4. Once the top is on both sides, then lock both sides simultaneously.
+
+<img src="images/assembly_5.jpg" alt="drawing" width="400"/> 
+   
+5. The nut presses into a matching hold on the sample platform piece.
+
 <img src="images/assembly_6.jpg" alt="drawing" width="400"/>  
-The nut presses into a matching hold on the sample platform piece.
-<img src="images/assembly_7.jpg" alt="drawing" width="400"/>  
+
 After pressing the nut in. If you use the fine adjustement, instead of a nut, you'll use a cylindrical sleeve.
-<img src="images/assembly_8.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_7.jpg" alt="drawing" width="400"/>  
+
 Next slide the platform in so the tab with the nut enters the square hole on the side.
-<img src="images/assembly_9.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_8.jpg" alt="drawing" width="400"/>  
+
 Then place the more other tab in the slot on the other side of the framework.
-<img src="images/assembly_10.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_9.jpg" alt="drawing" width="400"/>  
+
 Thread the bolt in the nut, and screw it in until the platform is level. The framework is finished. 
-<img src="images/assembly_11.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_10.jpg" alt="drawing" width="400"/>  
+
 The objective and objective_camera-housing adapter.
-<img src="images/assembly_12.jpg" alt="drawing" width="400"/>
+
+<img src="images/assembly_11.jpg" alt="drawing" width="400"/>  
+
 Screw the adaptor onto the objective. Some fiddling may be required to get the threads correct. 
-<img src="images/assembly_13.jpg" alt="drawing" width="400"/>
+ 
+<img src="images/assembly_12.jpg" alt="drawing" width="400"/>  
+
 Objective & adaptor with camera housing. Screw the adaptor into the camera housing.
-<img src="images/assembly_14.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_13.jpg" alt="drawing" width="400"/>  
+
 Complete, waiting for the camera board.
-<img src="images/assembly_15.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_14.jpg" alt="drawing" width="400"/>  
+
 Slot the camera board in. Be sure to remove the lens from the camera first. 
-<img src="images/assembly_16.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_15.jpg" alt="drawing" width="400"/>  
+
 With this objective, the objective spacer (grey) is needed. 
-<img src="images/assembly_17.jpg" alt="drawing" width="400"/>  
+ 
+<img src="images/assembly_16.jpg" alt="drawing" width="400"/>  
+
 Spacer inserted.
-<img src="images/assembly_18.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_17.jpg" alt="drawing" width="400"/>  
+
 Next insert the objective into the spacer (or hole in the top).
-<img src="images/assembly_19.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_18.jpg" alt="drawing" width="400"/>  
+
 Complete. 
-<img src="images/assembly_20.jpg" alt="drawing" width="400"/>  
+
+<img src="images/assembly_19.jpg" alt="drawing" width="400"/>  
+
 With light source turned on.
+
+<img src="images/assembly_20.jpg" alt="drawing" width="400"/>  
 
 
 ## Authors and acknowledgment
