@@ -1,5 +1,5 @@
 # Name: simple_microscope
-This microscope grew out of a need created by the pandemic, during Spring 2020. To implement a brownian motion lab for the biophysics lab course, I built a microscope similar to this, and the students carried out the experiment at their homes.
+This microscope grew out of a need created by the pandemic, during Spring 2020. To implement a brownian motion lab for the biophysics lab course, I built microscopes similar to this, and the students carried out the experiment at their homes.
 
 
 <img src="images/overview.jpg" alt="drawing" width="600"/>  
