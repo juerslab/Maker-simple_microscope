@@ -154,12 +154,12 @@ There are a couple problems here:
 2. The acrylic has pretty high friction with itself.
 
 Current parameters/procedure for nominal thickness of 3/16. Measure the thickness of the stock (d in mm). Then create files according to the following:
-| Material | Design         | Main Slot Height | Platform Slot Height |
-|----------|----------------|------------------|----------------------|
-| Acrylic  | Slot           | d + 0.36 mm      | d + 0.37 mm  (?)     |
-| Acrylic  | Interlocking   | d + 0.42 mm      | d + 0.37 mm          |
-| Plywood  | Slot           | d + 0.27 mm      | d + 0.42 mm          |
-| Plywood  | Interlocking   | d + 0.47 mm      | d + 0.42 mm          |
+| Material | Design         | Main Slot Height | Sample Platform Slot Height |
+|----------|----------------|------------------|-----------------------------|
+| Acrylic  | Slot           | d + 0.36 mm      | d + 0.37 mm  (?)            |
+| Acrylic  | Interlocking   | d + 0.42 mm      | d + 0.37 mm                 |
+| Plywood  | Slot           | d + 0.27 mm      | d + 0.42 mm                 |
+| Plywood  | Interlocking   | d + 0.47 mm      | d + 0.42 mm                 |
 
 - Redo code to output all 5 pieces at once. I had to reduce the overall width to 57 mm from 60 mm to get the whole shebang to 
 be less than 12" wide.
@@ -199,7 +199,7 @@ This seems pretty good. But still doesn't cut all the way through. So I try movi
 
 The next two pieces of plywood were 5.00 mm. So I use 5.47/5.42 mm, and this is pretty good. So the constants above seem ok.
 
-One problem, though, is that the plywood thickness appears to vary even up to 0.2 mm within a single board...
+One problem, though, is that the plywood thickness appears to vary even up to 0.2 mm within a single board. 
 
 
     

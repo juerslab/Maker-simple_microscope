@@ -79,7 +79,43 @@ Add tabs to make it easier to remove.
 ## Objective vertical spacer
 There are two (at least) different objectives from Amscope, with slightly different shapes. The skeleton is made for one of the
 shapes, and this adapter is needed for the other shape.
+- Looks like it's raising the objective too high. Reduce height by a couple mm?
+    - Current spacer is 5 mm. Try 4 mm & 3 mm.
+    - 4 mm is pretty good, for 1.54 mm slide (1.73 mm w/ coverslip) and 1.17 mm slide (1.27 w/ coverslip); works also for a bead slide (1.18 slide, 1.34 mm with coverslip)
+    
 
 ## Camera lens remover
 No changes were made to this file.
+
+10/17/2024
+Checking that slides with beads work.
+- Mounted a VWR "1 mm" slide (1.18 mm with caliper) with doublesided tape & coverslip (1.34 mm with coverslip). This visualized just fine.
+
+Other troubleshooting
+On some cameras there are specks, which appear to be dust or defects in the camera...
+- Hitting these with compressed air reduced the number of specs, but not compeltely. This will be a problem for a brownian motion
+lab, since the specs look like fixed polystyrene beads...
+- Three were bad. One was recoverable. It would be best to keep the cameras in the antistatic back they come in...
+
+Nearly finished. Things to check/keep in mind/do:
+1. Check all boxes for parts.
+2. Create parts list and directions to go in boxes (maybe this can be Bassant)
+3. Note that the platform nut hole could shift a bit in.
+4. Create slide transport thing that can clamp to the slide platform.
+5. Find M3-fine threaded nuts & 20 mm bolts.
+6. Print more objective rings when white filament comes in.
+7. Get more 20 mm coarse threaded bolts.
+
+10/23/2024
+Parts from Thorlabs cam in for M3x0.2 bolts. Try them out.
+These seem to work ok. I am using:
+F3ESN1P threaded bushing pressed into the platform
+F3ES20 threaded rod; but this is too short to use with F3ESN1P, so switch to F3ES25
+F3ESK1 knob, which when friction fit tightly seems to not come loose.
+
+So I order more of these parts for the rest of the microscopes (for 8 setups in all).
+
+
+
+
 
