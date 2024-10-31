@@ -93,19 +93,12 @@ Microscope with image of 1 micron polystyrene beads imaged with the microscope:
 <img src="images/beads_view.jpg" alt="drawing" width="400"/>
 
 ## Assembly
-<img src="images/assembly_1.jpg" alt="drawing" width="600" style="transform:rotate(-90deg) translate(0px,100px)"/>
 The parts of the microscope.
-
-
- 
-
-
-<img src="images/assembly_2.jpg" alt="drawing" width="400"/>
-
+<img src="images/assembly_1.jpg" alt="drawing" width="600" style="transform:rotate(-90deg) translate(0px,100px)"/>
 The pieces interlock. Numbers indicate which pieces should be together. Attach the first side to the bottom and lock so that the 1s line up. 
-
-<img src="images/assembly_3.jpg" alt="drawing" width="400"/>  
+<img src="images/assembly_2.jpg" alt="drawing" width="400"/>
 Attach the other side. 
+<img src="images/assembly_3.jpg" alt="drawing" width="400"/>  
 
 <img src="images/assembly_4.jpg" alt="drawing" width="400"/>  
 Place the top onto both sides without locking.
