@@ -185,7 +185,7 @@ With light source turned on.
 <img src="images/assembly_20.jpg" alt="drawing" width="400"/>  
 
 Notes
-- If the framework is loose, it can be shimmed by cutting and folding paper strips to get the right thickness, and inserting between bottom piece and sides in the middle interlocking piece. 
+- If the framework is loose, it can be shimmed by cutting and folding paper strips to get the right thickness, and inserting between bottom piece and sides in the middle interlocking piece. The platform can be shimmed with a piece of tape on the large tab.
 - The light source is bright enough for good visualization of diffusing polystyrene spheres. Darker slides may require moving the light source closer to the sample, or a brighter light.
 
 ## Future work
