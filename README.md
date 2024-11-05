@@ -190,7 +190,10 @@ Notes
 
 ## Future work
 - add a slide transport mechanism
-- modify the design to be more robust to variations in stock thickness
+- modify the framework design:
+    - to be more robust to variations in stock thickness
+    - prevent the objective from rotating in the top framework piece
+- modify the camera housing design to have a latching mechanism to keep the camera chip fixed
 
 ## Authors and acknowledgment
 
