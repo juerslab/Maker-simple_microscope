@@ -80,7 +80,9 @@ Table to get main OpenSCAD parameters.
 | Plywood  | Slot           | d + 0.27 mm      | d + 0.42 mm                 |
 | Plywood  | Interlocking   | d + 0.47 mm      | d + 0.42 mm                 |
 
-Note that the above acrylic parameters assume a smooth edge. If the edge is somewhat rough, then add about 0.1 mm...in our experience cast acrylic tends to produce rougher edges, and needs to have a larger 
+- The above parameters can be considered to be a starting point.
+- Note that the above acrylic parameters assume a smooth edge. If the edge is somewhat rough, then add about 0.1 mm. In our experience cast acrylic tends to produce rougher edges, and needs to have a larger slot width.
+- If the slots are too wide, the whole framework can be shimmed. (See below.)
 
 Other parameters that may need adjusting include hex_nut_radius and fine_thread_cylinder_radius, depending on hex nut size and laser kerf
  
