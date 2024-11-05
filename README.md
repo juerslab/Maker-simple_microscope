@@ -83,8 +83,8 @@ Table to get main OpenSCAD parameters.
 - The above parameters can be considered to be a starting point.
 - Note that the above acrylic parameters assume a smooth edge. If the edge is somewhat rough, then add about 0.1 mm. In our experience cast acrylic tends to produce rougher edges, and needs to have a larger slot width.
 - If the slots are too wide, the whole framework can be shimmed. (See below.)
-
-Other parameters that may need adjusting include hex_nut_radius and fine_thread_cylinder_radius, depending on hex nut size and laser kerf
+- If the slots are too small, the framework will get "frozen" after locking and break when taking apart; plywood is more forgiving.
+- Other parameters that may need adjusting include hex_nut_radius and fine_thread_cylinder_radius, depending on hex nut size and laser kerf
  
 Table to get laser power (for Epilog Zing, 60 W)
 | Material (3/16) | Raster  |  Vector  |
