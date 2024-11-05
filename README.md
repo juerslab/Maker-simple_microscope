@@ -80,6 +80,8 @@ Table to get main OpenSCAD parameters.
 | Plywood  | Slot           | d + 0.27 mm      | d + 0.42 mm                 |
 | Plywood  | Interlocking   | d + 0.47 mm      | d + 0.42 mm                 |
 
+Note that the above acrylic parameters assume a smooth edge. If the edge is somewhat rough, then add about 0.1 mm...in our experience cast acrylic tends to produce rougher edges, and needs to have a larger 
+
 Other parameters that may need adjusting include hex_nut_radius and fine_thread_cylinder_radius, depending on hex nut size and laser kerf
  
 Table to get laser power (for Epilog Zing, 60 W)
@@ -180,6 +182,13 @@ With light source turned on.
 
 <img src="images/assembly_20.jpg" alt="drawing" width="400"/>  
 
+Notes
+- If the framework is loose, it can be shimmed by cutting and folding paper strips to get the right thickness, and inserting between bottom piece and sides in the middle interlocking piece. 
+- The light source is bright enough for good visualization of diffusing polystyrene spheres. Darker slides may require moving the light source closer to the sample, or a brighter light.
+
+## Future work
+- add a slide transport mechanism
+- modify the design to be more robust to variations in stock thickness
 
 ## Authors and acknowledgment
 

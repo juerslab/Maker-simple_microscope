@@ -201,6 +201,22 @@ The next two pieces of plywood were 5.00 mm. So I use 5.47/5.42 mm, and this is 
 
 One problem, though, is that the plywood thickness appears to vary even up to 0.2 mm within a single board. 
 
+11/4/24
+Some new acrylic came in (from Canal Plastics, cast acrylic). Measured to be 4.39 mm thick. Tried to cut a framework using the above parameters (4.81 mm & 4.76). The fit was too tight. Even with 4.86 & 4.76 it was too tight. One possible reason is that the surface was rather rough, even at 5000 Hz. I'm wondering if this could be a cast vs extruded. Some websites suggest that extruded acrylic cuts with a smoother edge. According to a comment in Amazon, the acrylic I was using previously (from sourceone.org) is extruded acrylic. So this appears to mean that there is an additional offset if the acrylic is cast...
+11/5/24
+Trying again with the new acrylic. This sheet measures 4.50 mm. Using the above, I would get 4.92 & 4.87. But I will try 5.12 & 4.92 instead. 
+- 4.92 seems ok, but 5.12 is a little big. 
+Try 5.07 & 4.92
+- The weird thing here is that 5.07 makes it seem looser...
+
+So I think the take-home messages are:
+- that the above parameters are likely a good starting place 
+- if the acrylic is case, possibly increase by 0.1 mm. 
+- plywood will probably be more forgiving
+
+Next I see if there's a way to make the wobbly frameworks more solid.
+- Shimming works, although not super pretty. Folding paper strips and inserting between bottom piece and sides in the middle interlocking piece. This is enough. Need to play around with the appropriate thickness.
+
 
     
 
